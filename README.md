@@ -4,7 +4,7 @@ A **simple, modern, and responsive Weather Application** built using **React.js*
 This app fetches **real-time weather data** from a weather API and displays key details like temperature, humidity, wind speed, and current conditions with a clean and user-friendly UI.
 
 🔗 **Live Demo:**  
-👉 [🌦️ Weather App Live »](https://weather-kd7d5cmvr-suryas-projects-f7de5ba8.vercel.app)
+👉 [🌦️ Weather App Live »](https://weather-app-five-zeta-39.vercel.app/)
 
 ---
 
@@ -63,4 +63,4 @@ npm run dev
 
 **Chittem Surya**  
 🌦️ Weather App Live Demo:  
-👉 https://weather-kd7d5cmvr-suryas-projects-f7de5ba8.vercel.app
+👉 https://weather-app-five-zeta-39.vercel.app/
