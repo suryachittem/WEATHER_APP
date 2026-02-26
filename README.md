@@ -54,6 +54,7 @@ weather-app/
 ├── package.json
 └── README.md
 
+---
 
 ### ⚙️ Installation & Setup
 
