@@ -1,0 +1,25 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.weather-bg {
+  min-height: 100vh;
+  width: 100vw;
+
+  background-image: url("/1001043371.jpg.jpeg"); /* image in public folder */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.title {
+  color: white;
+  text-shadow: 0px 0px 6px black;
+  margin-bottom: 20px;
+}
