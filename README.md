@@ -36,25 +36,6 @@ This app fetches **real-time weather data** from a weather API and displays key 
 
 ### API
 - 🌐 OpenWeatherMap API
-## 📂 Project Structure
-
-```bash
-weather-app/
-│
-├── src/
-│   ├── components/
-│   │   ├── SearchBox.jsx
-│   │   ├── WeatherCard.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│
-├── public/
-├── package.json
-└── README.md
-
----
 
 ### ⚙️ Installation & Setup
 
