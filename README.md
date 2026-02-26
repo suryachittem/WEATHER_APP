@@ -38,6 +38,7 @@ This app fetches **real-time weather data** from a weather API and displays key 
 - 🌐 OpenWeatherMap API
 ## 📂 Project Structure
 
+```bash
 weather-app/
 │
 ├── src/
@@ -53,25 +54,26 @@ weather-app/
 ├── package.json
 └── README.md
 
+
 ### ⚙️ Installation & Setup
 
-# 1️⃣ Clone the repository
+1️⃣ Clone the repository
 
 git clone https://github.com/your-username/weather-app.git
 
-# 2️⃣ Navigate to project folder
+2️⃣ Navigate to project folder
 
 cd weather-app
 
-# 3️⃣ Install dependencies
+3️⃣ Install dependencies
 
 npm install
 
-# 4️⃣ Create .env file and add your API key
+4️⃣ Create .env file and add your API key
 
 VITE_WEATHER_API_KEY=your_api_key_here
 
-# 5️⃣ Run the app
+5️⃣ Run the app
 
 npm run dev
 
